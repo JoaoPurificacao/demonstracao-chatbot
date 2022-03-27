@@ -5,3 +5,9 @@
     color: var(--cinza_claro);
 }
 
+.carro__texto{
+    color: var(--branco_transparente);
+    font-family: var(--lexa);
+    font-weight: 400;
+}
+
