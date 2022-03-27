@@ -1,8 +1,8 @@
 .carro__titulo{
+    color: var(--cinza_claro);
     font-family: var(--big);
     font-weight: 700;
     text-transform: uppercase;
-    color: var(--cinza_claro);
 }
 
 .carro__texto{
