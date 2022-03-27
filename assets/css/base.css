@@ -2,5 +2,6 @@
     font-family: var(--big);
     font-weight: 700;
     text-transform: uppercase;
+    color: var(--cinza_claro);
 }
 
