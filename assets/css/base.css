@@ -9,6 +9,7 @@
     color: var(--branco_transparente);
     font-family: var(--lexa);
     font-weight: 400;
+    line-height: 2rem;
 }
 
 .sedans{
