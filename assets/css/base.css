@@ -22,3 +22,22 @@
 .luxury{
     background-color: var(--verde);
 }
+
+.carro__botão{
+    background-color: var(--cinza_claro);
+    border-radius: 2rem;
+    font-family: var(--lexa);
+    text-align: center;
+}
+
+.carro__botão.sedans{
+    color: var(--laranja);
+}
+
+.carro__botão.suvs{
+    color: var(--azul);
+}
+
+.carro__botão.luxury{
+    color: var(--verde);
+}
