@@ -2,4 +2,8 @@
     .carro__titulo{
         font-size: 2.5rem;
     }
+
+    .carro__texto{
+        font-size: 1.05rem;
+    }
  }
