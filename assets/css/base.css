@@ -11,3 +11,14 @@
     font-weight: 400;
 }
 
+.sedans{
+    background-color: var(--laranja);
+}
+
+.suvs{
+    background-color: var(--azul);
+}
+
+.luxury{
+    background-color: var(--verde);
+}
