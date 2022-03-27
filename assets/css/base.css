@@ -14,7 +14,6 @@
 
 .sedans{
     background-color: var(--laranja);
-    border-radius: 1rem 0rem 0rem 1rem;
 }
 
 .suvs{
@@ -23,7 +22,6 @@
 
 .luxury{
     background-color: var(--verde);
-    border-radius: 0rem 1rem 1rem 0rem;
 }
 
 .carro__botão{
