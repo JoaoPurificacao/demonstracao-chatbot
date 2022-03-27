@@ -1,0 +1,15 @@
+@media screen and (min-width: 1280px){
+    body{
+        height: 100vh;
+        display: flex;
+        flex-direction: row;
+    }
+ 
+    .sedans{
+        margin-top: 0rem;
+    }
+ 
+    .luxury{
+        margin-bottom: 0rem;
+    }
+ }
