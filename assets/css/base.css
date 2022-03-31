@@ -16,29 +16,33 @@
     background-color: var(--laranja);
 }
 
+.sedans a{
+    color: var(--laranja);
+}
+
 .suvs{
     background-color: var(--azul);
+}
+
+.suvs a{
+    color: var(--azul);
 }
 
 .luxury{
     background-color: var(--verde);
 }
 
+.luxury a{
+    color: var(--verde);
+}
+
 .carro__botão{
     background-color: var(--cinza_claro);
     border-radius: 2rem;
     font-family: var(--lexa);
+    font-size: 1rem;
+    height: 3rem;
+    padding-top: 0.9rem;
     text-align: center;
-}
-
-.carro__botão.sedans{
-    color: var(--laranja);
-}
-
-.carro__botão.suvs{
-    color: var(--azul);
-}
-
-.carro__botão.luxury{
-    color: var(--verde);
+    width: 9rem;
 }
