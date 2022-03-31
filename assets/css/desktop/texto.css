@@ -1,0 +1,6 @@
+@media screen and (min-width: 1280px){
+    .carro__texto{
+        margin-top: -2rem;
+        padding-right: 0.2rem;
+    }
+ }
