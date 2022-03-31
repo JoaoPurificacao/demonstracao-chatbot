@@ -16,6 +16,10 @@
     background-color: var(--laranja);
 }
 
+.sedans a:hover{
+    background-color: var(--laranja);
+}
+
 .sedans a{
     color: var(--laranja);
 }
@@ -28,12 +32,20 @@
     color: var(--azul);
 }
 
+.suvs a:hover{
+    background-color: var(--azul);
+}
+
 .luxury{
     background-color: var(--verde);
 }
 
 .luxury a{
     color: var(--verde);
+}
+
+.luxury a:hover{
+    background-color: var(--verde);
 }
 
 .carro__botão{
@@ -45,4 +57,10 @@
     padding-top: 0.9rem;
     text-align: center;
     width: 9rem;
+}
+
+.carro__botão:hover{
+    border: 2px solid var(--cinza_claro);
+    color: var(--cinza_claro);
+    padding-top: calc(0.9rem - 2px);
 }
