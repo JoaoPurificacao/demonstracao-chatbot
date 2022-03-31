@@ -63,4 +63,5 @@
     border: 2px solid var(--cinza_claro);
     color: var(--cinza_claro);
     padding-top: calc(0.9rem - 2px);
+    cursor: pointer;
 }
